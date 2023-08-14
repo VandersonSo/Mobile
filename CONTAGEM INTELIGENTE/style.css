@@ -1,0 +1,14 @@
+body{
+    background-color: chocolate;
+}
+
+div{
+    width: 36%;
+    background-color: brown;
+    padding: 1%;
+    border-color: aliceblue;
+    border-style: double;
+    border-width: 10px;
+    margin-left: 28%;
+    margin-top: 15%;
+}
